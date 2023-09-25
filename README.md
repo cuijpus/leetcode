@@ -6,7 +6,7 @@ Talk is cheap, Show me the code.\n
 
 Ref:
 https://github.com/youngyangyang04/leetcode-master/blob/master/README.md 
-https://github.com/MisterBooo/LeetCodeAnimation/tree/master
+https://github.com/MisterBooo/LeetCodeAnimation/tree/master \\n
 https://github.com/doocs/leetcode
 \\n
 https://github.com/doocs/leetcode/blob/main/solution/README.md
